@@ -1,0 +1,22 @@
+{
+  "name": "magiklabs_cypress_test",
+  "version": "1.0.0",
+  "description": "Writing tests for the Magiklabs staging environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atulzh07/MagikLabs_cypress_test.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "atulzh07",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atulzh07/MagikLabs_cypress_test/issues"
+  },
+  "homepage": "https://github.com/atulzh07/MagikLabs_cypress_test#readme"
+}
