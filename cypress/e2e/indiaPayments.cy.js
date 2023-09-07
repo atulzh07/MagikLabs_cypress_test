@@ -1,3 +1,5 @@
+//Sample test for all payment methods in "India"
+
 describe('Countrys Payment Methods', () => {
     let countryCode = "IN";
     it('Payment Method Name', () => {
